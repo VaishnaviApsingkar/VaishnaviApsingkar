@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Vaishnavi Apsingkar
 
 🎓 Master’s in Computer and Information Science @ Purdue University  
-🔍 Actively seeking full-time opportunities in **Software Engineering** and **Data Analytics/Data Science** across USA 
-📍 Based in Indianapolis, IN  
+🔍 Actively seeking full-time opportunities in **Software Engineering** and **Data Analytics/Data Science** 
 🧠 Passionate about building scalable systems & extracting insights from data
 
 ---
