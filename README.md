@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Vaishnavi Apsingkar
 
 🎓 Master’s in Computer and Information Science @ Purdue University  
-🔍 Actively seeking full-time opportunities in **Software Engineering** and **Data Analytics/Data Science** 
+🔍 Actively seeking full-time opportunities in **Software Engineering** and **Data Analytics/Data Science/AI** 
 🧠 Passionate about building scalable systems & extracting insights from data
 
 ---
@@ -21,6 +21,11 @@
 
 ---
 
+## ⭐ Achievements:
+- Smart India Hackaton 2020 Winner
+
+---
+
 ## 🚀 Technical Skills
 
 ### 💻 Software Development
@@ -31,7 +36,9 @@
 - **Cloud Services:** AWS (Lambda, EC2, S3), Azure DevOps
 - **Architecture:** RESTful APIs, Microservices, CI/CD pipelines, Unit Testing (JUnit, Mockito), MVC
 - **Certifications:**  
-  - AWS Certified Developer – Associate  
+  - AWS Certified Developer – Associate
+  - Java Foundations Professional Certificate by JetBrains
+  - Become and AI Engineer (Learning Path on LinkedIn Learning
 
 ### 📊 Data Analyst / Data Science
 
