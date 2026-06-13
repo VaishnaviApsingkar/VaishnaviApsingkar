@@ -38,7 +38,7 @@
 - **Certifications:**  
   - AWS Certified Developer – Associate
   - Java Foundations Professional Certificate by JetBrains
-  - Become and AI Engineer (Learning Path on LinkedIn Learning
+  - Become and AI Engineer (LinkedIn Learning)
 
 ### 📊 Data Analyst / Data Science
 
